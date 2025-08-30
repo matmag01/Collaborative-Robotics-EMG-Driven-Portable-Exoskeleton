@@ -19,6 +19,7 @@ Please download the [TMSi Python Interface](https://gitlab.com/tmsi/tmsi-python-
 - Run python script ```Real_time_EMG.py``` and Arduino script ```EduExo.ino```, after uploading it on the Arduino in the AUXIVO EduExo Pro exoskeleton
 - User should be still for the first 15 seconds (EMG signal baseline computation). After baseline computation, user can start to perform the exercise
 
+![Usage](Usage.jpg)
 ## EXTRA
 The folder [Validation](Codes/Validation) cointains code used for testing and validation (EMG trigger, gravity compensation and force sensor validation) 
 
