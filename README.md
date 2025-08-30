@@ -22,5 +22,15 @@ Please download the [TMSi Python Interface](https://gitlab.com/tmsi/tmsi-python-
 ## EXTRA
 The folder [Validation](Codes/Validation) cointains code used for testing and validation (EMG trigger, gravity compensation and force sensor validation) 
 
+## AUTHORS
+
+This project was realized during [Collaborative robotics course](https://onlineservices.polimi.it/manifesti/manifesti/controller/Main.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2025&k_cf=225&k_corso_la=479&k_indir=DBI&codDescr=059411&lang=EN&semestre=1&idGruppo=5127&idRiga=320617&caricaOffertaInvisibile=false) at [Politecnico di Milano](https://www.polimi.it/) by:
+
+- Alessia Bini 
+- Francesca Iustini 
+- Matteo Magnani 
+- Gianluca Morotti 
+- Michele Tucci 
+
 
 
