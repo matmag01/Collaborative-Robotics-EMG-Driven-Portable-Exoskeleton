@@ -16,7 +16,7 @@ Please download the [TMSi Python Interface](https://gitlab.com/tmsi/tmsi-python-
 
 ## USAGE
 
-- Place Ag/AgCl wet-gel pediatric electrodes on the biceps brachii with the closest possible inter-electrode distance to increase selectivity (2 cm is recommended) [14]. Moreover, a reference electrode needs to be positioned on an electrically unaffected area such as the wrist bone 
+- Place Ag/AgCl wet-gel pediatric electrodes on the biceps brachii with the closest possible inter-electrode distance to increase selectivity (2 cm is recommended). Moreover, a reference electrode needs to be positioned on an electrically unaffected area such as the wrist bone 
 - Run python script ```Real_time_EMG.py``` and Arduino script ```EduExo.ino```, after uploading it on the Arduino in the AUXIVO EduExo Pro exoskeleton
 - User should be still for the first 15 seconds (EMG signal baseline computation). After baseline computation, user can start to perform the exercise
 <p align="center">
